@@ -6,12 +6,12 @@ Prototype for website.
 ## Technologies
 
 - HTML5, CSS3
-- progressive improvement
 - Flexbox layout
-- Responsive design
-- Desktop First
-- Sass (SCSS).
-- Gulp.
-- Cross-Browser Compatibility: Chrome, Firefox, Safari
+- Sass (SCSS)
+- Gulp
+- responsive desktop-first design
+- cross-browser compatibility: Chrome, Firefox, Safari
+- progressive improvement
 
-The layout is provided by Advanced CSS and Sass Udemy learning course.
+The layout design is provided by Advanced CSS and Sass Udemy learning course.
+
