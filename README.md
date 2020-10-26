@@ -9,7 +9,7 @@ Prototype for website.
 - Flexbox layout
 - Sass (SCSS)
 - Gulp
-- responsive desktop-first design
+- desktop-first responsive design
 - cross-browser compatibility: Chrome, Firefox, Safari
 - progressive improvement
 
